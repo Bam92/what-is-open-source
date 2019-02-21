@@ -8,9 +8,12 @@ In this lesson you will learn the meaning of the term _Open Source_ when referri
 
 This is a general topic with no prerequisites.
 
-## Objectives
 
-After completing this lesson, students will be able to:
+
+## Objectifs
+
+
+A la fin de cette leçon l'étudiants sera à mesure de ::
 
 *   Describe and compare the concepts of open-source software, free software, and proprietary software.
 *   Define the purpose of the GPL license, and recognize how copyleft varies from copyright.
